@@ -8,6 +8,14 @@
 
 כאן נמצאות ספריות קוד פתוח שבנינו לכלים החינמיים [באתר שלנו](https://www.aiterra.co.il/tools), כדי שגם מפתחים אחרים יוכלו להשתמש בהן.
 
+## 🔍 בדיקת SEO לאתר בעברית
+
+**[hebrew-seo-audit](https://github.com/aiterra-il/hebrew-seo-audit)**: בודק RTL, כותרות, הצהרת נגישות, בוטים של AI ו-llms.txt, ומוציא דוח בעברית.
+
+```bash
+npx github:aiterra-il/hebrew-seo-audit www.your-site.co.il
+```
+
 ## 📦 ספריות
 
 | ספרייה | מה היא עושה | npm |
