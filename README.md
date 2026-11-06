@@ -1,6 +1,6 @@
-<div dir="rtl" align="right">
+<a href="https://www.aiterra.co.il"><img src="banner.png" alt="Aiterra · קוד פתוח לעברית ולישראל" width="100%"></a>
 
-<img src="https://www.aiterra.co.il/icons/logo-512-v2.png" width="96" align="left" alt="Aiterra">
+<div dir="rtl" align="right">
 
 # שלום, אנחנו Aiterra 👋
 
