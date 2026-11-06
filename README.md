@@ -20,6 +20,7 @@ npx github:aiterra-il/hebrew-seo-audit www.your-site.co.il
 
 | ספרייה | מה היא עושה | npm |
 |---|---|---|
+| **[israel-tax](https://github.com/aiterra-il/israel-tax)** | מחשבוני מס ושכר 2026: שכר נטו, מע״מ, מס רכישה, מס לעצמאי, פיצויים, נקודות זיכוי ושכר מינימום | [![npm](https://img.shields.io/npm/v/israel-tax?color=2447D6&label=)](https://www.npmjs.com/package/israel-tax) |
 | **[hebrew-acronyms](https://github.com/aiterra-il/hebrew-acronyms)** | מילון של 414 ראשי תיבות, ופריסה למילים מלאות לסוכנים קוליים ול-TTS: צה״ל ← צבא הגנה לישראל | [![npm](https://img.shields.io/npm/v/hebrew-acronyms?color=2447D6&label=)](https://www.npmjs.com/package/hebrew-acronyms) |
 | **[israel-companies](https://github.com/aiterra-il/israel-companies)** | חיפוש חברה ברשם החברות לפי ח.פ. או שם, עם בדיקת ספרת ביקורת והסבר לכל סטטוס | [![npm](https://img.shields.io/npm/v/israel-companies?color=2447D6&label=)](https://www.npmjs.com/package/israel-companies) |
 | **[israel-bank-branches](https://github.com/aiterra-il/israel-bank-branches)** | כל סניפי הבנקים בישראל: חיפוש לפי מספר סניף, עיר או מיקום, וקודי SWIFT | [![npm](https://img.shields.io/npm/v/israel-bank-branches?color=2447D6&label=)](https://www.npmjs.com/package/israel-bank-branches) |
